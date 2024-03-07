@@ -18,7 +18,8 @@ int main() {
     resistencia_total = resistor1 + resistor2 + resistor3;
 
     
-    printf("A resistencia total do circuito em série é: %.2f ohms\n", resistencia_total);
+    printf("A resistencia total do circuito em sÃ©rie Ã©: %.2f ohms\n", resistencia_total);
 
     return 0;
 }
+ 
